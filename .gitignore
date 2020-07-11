@@ -1,2 +1,8 @@
 /.smooth/
 /bin/
+.classpath
+.project
+*.iml
+.idea
+.settings
+/target/
